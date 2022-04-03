@@ -4,6 +4,8 @@
         <p><h3>I'm Daniel, computer engineer.</h3></p>
         <p><i>CMO (Chief Meme Officer).</i></p>
         <p>Open source enthusiastic and Python evangelist.</p>
+        <p>Member of the <a href='https://github.com/guluc3m' target="_blank">GUL UC3M</a> (and sometimes its president)</p>
+        <p>Co-founder of the <a href='https://jamon.gul.es' target="_blank">GUL Jamón</a></p>
     </td>
     <td width="50%"><img src="https://c.tenor.com/8IIQDBECgssAAAAC/hello-sexy-hi.gif" alt="mr.bean saying hello"></td>
   </tr>
