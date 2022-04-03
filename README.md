@@ -1,6 +1,6 @@
 <table align="center">
-  <tr style="border-top: none">
-    <td style="width='50%'; border: none">
+  <tr>
+    <td style="width='50%'">
         <p><h3>I'm Daniel, computer engineer.</h3></p>
         <p><i>CMO (Chief Meme Officer).</i></p>
         <p>Open source enthusiastic and Python evangelist.</p>
