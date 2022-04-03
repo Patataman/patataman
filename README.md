@@ -11,10 +11,15 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patataman&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true" alt="account stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patataman&layout=compact&exclude_repo=PySpark" alt="most used languages">
-</p>
+<table align="center">
+  <tr>
+    <td style="width='50%'">
+      <img src="https://github-readme-stats.vercel.app/api?username=patataman&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true" alt="account stats">
+    </td>
+    <td style="width='50%'">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patataman&layout=compact&exclude_repo=PySpark" alt="most used languages">
+    </td>
+</table>
 
 <h2 align="center">Cool things</h2>
 <p align="center">
