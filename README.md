@@ -11,22 +11,18 @@
   </tr>
 </table>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=patataman&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true" alt="account stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patataman&layout=compact&exclude_repo=PySpark" alt="most used languages">
 </p>
 
-### Cool things
-
+<h2 align="center">Cool things</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=goliat" alt="StarCraft bot repository">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=picovolume" alt="multimedia buttons repository">
 </p>
 
-### More educational repositories
-
+<h2 align="center">More educational repositories</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=pythonbasic" alt="Repository to learn python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=basiccmasmas" alt="Repository to learn C++">
