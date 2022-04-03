@@ -18,12 +18,12 @@
 
 <h2 align="center">Cool things</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=goliat" alt="StarCraft bot repository">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=picovolume" alt="multimedia buttons repository">
+  <a href="https://github.com/patataman/goliat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=goliat" alt="StarCraft bot repository"></a>
+  <a href="https://github.com/patataman/picovolume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=picovolume" alt="multimedia buttons repository"></a>
 </p>
 
 <h2 align="center">More educational repositories</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=pythonbasic" alt="Repository to learn python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=basiccmasmas" alt="Repository to learn C++">
+  <a href="https://github.com/patataman/pythonbasic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=pythonbasic" alt="Repository to learn python"></a>
+  <a href="https://github.com/patataman/basiccmasmas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=basiccmasmas" alt="Repository to learn C++"></a>
 </p>
