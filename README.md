@@ -27,8 +27,9 @@
   <a href="https://github.com/patataman/picovolume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=picovolume" alt="multimedia buttons repository"></a>
 </p>
 
-<h2 align="center">More educational repositories</h2>
+<h2 align="center">Educational repositories (in Spanish)</h2>
 <p align="center">
   <a href="https://github.com/patataman/pythonbasic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=pythonbasic" alt="Repository to learn python"></a>
   <a href="https://github.com/patataman/basiccmasmas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=basiccmasmas" alt="Repository to learn C++"></a>
+  <a href="https://github.com/patataman/basiclatex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patataman&repo=basiclatex" alt="Repository to LaTeX"></a>
 </p>
